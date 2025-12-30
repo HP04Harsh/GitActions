@@ -16,4 +16,4 @@ jobs:
       - name: Run hello script
         run: |
           echo "Running CI Pipeline"
-          cat file.txt
+          cat file1.txt
